@@ -112,6 +112,9 @@ Get Public IP and Test
 Once the instance is running, open a web browser and visit:
 
 
+![image](https://github.com/user-attachments/assets/7fe92fe2-a4a3-48d6-a2a2-bdba5c283bdd)
+
+
 ![image](https://github.com/user-attachments/assets/1a4d480c-63a6-47b6-94e3-1d25992068d1)
 
 
