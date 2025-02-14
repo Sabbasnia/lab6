@@ -112,10 +112,13 @@ Get Public IP and Test
 Once the instance is running, open a web browser and visit:
 
 
+![image](https://github.com/user-attachments/assets/1a4d480c-63a6-47b6-94e3-1d25992068d1)
 
 
 to verify please check this 
 http://54.68.40.52/ or this <a href="ec2-54-68-40-52.us-west-2.compute.amazonaws.com">ec2-54-68-40-52.us-west-2.compute.amazonaws.com</a>
 ![image](https://github.com/user-attachments/assets/4aad4c2d-e333-4328-aed1-855a2814fc8b)
+
+
 
 now you can see my html page.
