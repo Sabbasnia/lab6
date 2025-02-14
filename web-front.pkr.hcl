@@ -74,5 +74,11 @@ build {
   provisioner "shell" {
     script = "scripts/setup-nginx"
   }
+
+  provisioner "shell" {
+    inline = [
+      "sudo mv /tmp/web/index.html /web/html/index.html"
+    ]
+  }
 }
 
